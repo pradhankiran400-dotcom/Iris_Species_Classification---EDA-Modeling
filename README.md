@@ -15,8 +15,8 @@
 •	Label Encoding: The species column is categorical, so it needs to be converted into numerical format  using LabelEncoder before being fed into a machine learning model.
 
 <p>
-  <h1>Kiran Kumar Pradhan</h1><br>
-  <h2>125ID0012</h2>
+  <h2>Name: Kiran Kumar Pradhan</h2><br>
+  <h2>Roll: 125ID0012</h2>
   <h3>: I am currently Studing my Data Science and Machine Learning skills through CampusX,<br>
     and some other free course of Youtube</h3>
 </p>
