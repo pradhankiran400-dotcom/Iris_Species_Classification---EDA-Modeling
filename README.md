@@ -13,3 +13,10 @@
 •	Outlier Handling: I would address the 4 outliers identified in the Sepal Width column (indices 15, 32, 33, and 60) either by removing them or capping them to prevent them from skewing the model.<br>
 •	Feature Scaling: Since the features have different ranges (e.g., Petal Width goes up to while Sepal Length goes up to ), applying StandardScaler  would be beneficial for algorithms like k-NN or SVM or Decision Trees(‘Not Need StandScaler’).<br>
 •	Label Encoding: The species column is categorical, so it needs to be converted into numerical format  using LabelEncoder before being fed into a machine learning model.
+
+<p>
+  <h1>Kiran Kumar Pradhan</h1><br>
+  <h2>125ID0012</h2>
+  <h3>: I am currently Studing my Data Science and Machine Learning skills through CampusX,<br>
+    and some other free course of Youtube</h3>
+</p>
